@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プライバシーポリシー - 測量士試験対策</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f7f6;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #4CAF50;
+      text-align: center;
+      margin-top: 20px;
+    }
+    h2 {
+      font-size: 1.2em;
+    }
+    p {
+      max-width: 900px;
+      margin: 0 auto 20px;
+      padding: 0 15px;
+      color: #333;
+      font-size: 1.1em;
+    }
+    ul {
+      max-width: 900px;
+      margin: 0 auto 20px;
+      padding-left: 30px;
+      color: #333;
+    }
+    footer {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 30px;
+    }
+    .content {
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      margin: 20px auto;
+      width: 95%;
+      max-width: 900px;
+    }
+    .contact-email {
+      font-weight: bold;
+      color: #3498db;
+    }
+    .home-link {
+      display: inline-block;
+      margin-top: 20px;
+      color: #fff;
+      background-color: #3498db;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .home-link:hover {
+      background-color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="content">
+    <h1>プライバシーポリシー</h1>
+
+    <p>測量士試験対策（以下「当サイト」）では、ユーザーのプライバシーを尊重し、個人情報の保護に努めています。</p>
+
+    <h2>1. 収集する情報</h2>
+    <p>当サイトでは、以下の情報を自動的に取得する場合があります：</p>
+    <ul>
+      <li>アクセス解析のための匿名データ（アクセス元、閲覧時間、使用端末等）</li>
+      <li>Google AdSense による Cookie 情報</li>
+    </ul>
+
+    <h2>2. 情報の利用目的</h2>
+    <p>取得した情報は以下の目的で利用いたします：</p>
+    <ul>
+      <li>サイトの利便性向上・改善</li>
+      <li>コンテンツの最適化・不具合修正</li>
+      <li>広告のパーソナライズおよび適切な配信のため</li>
+    </ul>
+
+    <h2>3. 広告配信について</h2>
+    <p>当サイトは第三者配信の広告サービス「Google AdSense」を利用しています。Google などの第三者広告配信事業者は、ユーザーの興味に応じた広告を表示するために Cookie（クッキー）を使用することがあります。</p>
+    <p>Google 広告における Cookie の利用についての詳細は、以下のページをご覧ください：</p>
+    <p><a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank">Google ポリシーと規約</a></p>
+
+    <h2>4. Cookie の使用について</h2>
+    <p>当サイトでは、ユーザーの利便性向上やアクセス解析、広告配信のために Cookie を使用することがあります。Cookie により個人を特定する情報は取得されません。必要に応じて、ブラウザの設定により Cookie の受け入れを拒否することも可能です。</p>
+
+    <h2>5. 第三者への情報提供</h2>
+    <p>当サイトでは、法律に基づく場合を除き、ユーザーの許可なく第三者に情報を提供することはありません。</p>
+
+    <h2>6. 免責事項</h2>
+    <p>当サイトの利用により生じた損害等について、当サイト管理者は一切の責任を負いかねます。また、外部リンク先のサイトにおける個人情報の取り扱いに関しても責任を負いません。</p>
+
+    <h2>7. プライバシーポリシーの変更</h2>
+    <p>本ポリシーは、法令や運営方針の変更に応じて予告なく改訂されることがあります。最新の内容は本ページにて常時ご確認いただけます。</p>
+
+    <h2>8. お問い合わせ</h2>
+    <p>プライバシーに関するお問い合わせは、以下のメールアドレスまでお願いいたします。</p>
+    <p><span class="contact-email">turigorira710@gmail.com</span></p>
+  </div>
+
+  <footer>
+    <a href="index.html" class="home-link">ホームに戻る</a>
+    <p>&copy; 2025 Mizuty</p>
+  </footer>
+
+</body>
+</html>
